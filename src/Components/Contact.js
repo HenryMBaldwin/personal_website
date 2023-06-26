@@ -48,7 +48,7 @@ class Contact extends Component {
 
 					   <h4>Email</h4>
 					   <p className="address">
-						   justinwestley11@gmail.com<br />
+						   henrymbaldwin@gmail.com<br />
 						   Feel free to reach out on LinkedIn or anywhere else as well!<br />
 					   </p>
 				   </div>
