@@ -171,7 +171,7 @@
 
     /* preloader
      */
-    --color-preloader-bg           : #CFE6E8;
+    --color-preloader-bg           /*: #c7edcb;*/: var(--color-1-dark);
     --color-loader                 : var(--color-text-dark);
     --color-loader-light           : var(--color-1-lighter);
 
@@ -4006,6 +4006,7 @@ img.u-pull-left {
 .s-footer .link-list a {
     color  : var(--color-text);
     border : none;
+    vertical-align: middle;
 }
 
 .s-footer .link-list a:focus,
